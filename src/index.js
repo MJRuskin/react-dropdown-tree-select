@@ -154,6 +154,8 @@ class DropdownTreeSelect extends Component {
       searchModeOn,
       allNodesHidden,
     })
+
+    if (value.length === 0) this.setState(this.resetSearchState())
   }
 
   onTagRemove = (id, isKeyboardEvent) => {

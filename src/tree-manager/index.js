@@ -123,6 +123,9 @@ class TreeManager {
   restoreNodes() {
     this.tree.forEach(node => {
       node.hide = false
+      node._isMatch = undefined
+      node.matchInParent = undefined
+      node.matchInChildren = undefined
     })
 
     return this.tree
