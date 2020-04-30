@@ -3,8 +3,8 @@
   "warnings": [],
   "version": "4.31.0",
   "hash": "deb3e1c53599b9c4f0fd",
-  "time": 8046,
-  "builtAt": 1588215903653,
+  "time": 23657,
+  "builtAt": 1588218995099,
   "publicPath": "",
   "outputPath": "/Users/miruskin/work/github/react-dropdown-tree-select/dist",
   "assetsByChunkName": {
@@ -1501,25 +1501,25 @@
               "moduleName": "./src/index.js + 26 modules",
               "type": "harmony side effect evaluation",
               "userRequest": "react",
-              "loc": "13:0-45"
-            },
-            {
-              "moduleId": 10,
-              "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/index.js 31bfbeddcd9fb87c5da81c0767399dec",
-              "module": "./src/index.js + 26 modules",
-              "moduleName": "./src/index.js + 26 modules",
-              "type": "harmony side effect evaluation",
-              "userRequest": "react",
-              "loc": "13:0-45"
-            },
-            {
-              "moduleId": 10,
-              "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/index.js 31bfbeddcd9fb87c5da81c0767399dec",
-              "module": "./src/index.js + 26 modules",
-              "moduleName": "./src/index.js + 26 modules",
-              "type": "harmony side effect evaluation",
-              "userRequest": "react",
               "loc": "13:0-41"
+            },
+            {
+              "moduleId": 10,
+              "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/index.js 31bfbeddcd9fb87c5da81c0767399dec",
+              "module": "./src/index.js + 26 modules",
+              "moduleName": "./src/index.js + 26 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "react",
+              "loc": "13:0-45"
+            },
+            {
+              "moduleId": 10,
+              "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/index.js 31bfbeddcd9fb87c5da81c0767399dec",
+              "module": "./src/index.js + 26 modules",
+              "moduleName": "./src/index.js + 26 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "react",
+              "loc": "13:0-45"
             },
             {
               "moduleId": 10,
@@ -2750,18 +2750,18 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/trigger/index.js",
-                  "module": "./src/trigger/index.js",
-                  "moduleName": "./src/trigger/index.js",
+                  "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/input/index.js",
+                  "module": "./src/input/index.js",
+                  "moduleName": "./src/input/index.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../a11y",
                   "loc": "14:0-39"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/input/index.js",
-                  "module": "./src/input/index.js",
-                  "moduleName": "./src/input/index.js",
+                  "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/trigger/index.js",
+                  "module": "./src/trigger/index.js",
+                  "moduleName": "./src/trigger/index.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../a11y",
                   "loc": "14:0-39"
@@ -6023,25 +6023,25 @@
           "moduleName": "./src/index.js + 26 modules",
           "type": "harmony side effect evaluation",
           "userRequest": "react",
-          "loc": "13:0-45"
-        },
-        {
-          "moduleId": 10,
-          "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/index.js 31bfbeddcd9fb87c5da81c0767399dec",
-          "module": "./src/index.js + 26 modules",
-          "moduleName": "./src/index.js + 26 modules",
-          "type": "harmony side effect evaluation",
-          "userRequest": "react",
-          "loc": "13:0-45"
-        },
-        {
-          "moduleId": 10,
-          "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/index.js 31bfbeddcd9fb87c5da81c0767399dec",
-          "module": "./src/index.js + 26 modules",
-          "moduleName": "./src/index.js + 26 modules",
-          "type": "harmony side effect evaluation",
-          "userRequest": "react",
           "loc": "13:0-41"
+        },
+        {
+          "moduleId": 10,
+          "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/index.js 31bfbeddcd9fb87c5da81c0767399dec",
+          "module": "./src/index.js + 26 modules",
+          "moduleName": "./src/index.js + 26 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "react",
+          "loc": "13:0-45"
+        },
+        {
+          "moduleId": 10,
+          "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/index.js 31bfbeddcd9fb87c5da81c0767399dec",
+          "module": "./src/index.js + 26 modules",
+          "moduleName": "./src/index.js + 26 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "react",
+          "loc": "13:0-45"
         },
         {
           "moduleId": 10,
@@ -7263,18 +7263,18 @@
           "reasons": [
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/trigger/index.js",
-              "module": "./src/trigger/index.js",
-              "moduleName": "./src/trigger/index.js",
+              "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/input/index.js",
+              "module": "./src/input/index.js",
+              "moduleName": "./src/input/index.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../a11y",
               "loc": "14:0-39"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/input/index.js",
-              "module": "./src/input/index.js",
-              "moduleName": "./src/input/index.js",
+              "moduleIdentifier": "/Users/miruskin/work/github/react-dropdown-tree-select/node_modules/babel-loader/lib/index.js!/Users/miruskin/work/github/react-dropdown-tree-select/src/trigger/index.js",
+              "module": "./src/trigger/index.js",
+              "moduleName": "./src/trigger/index.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../a11y",
               "loc": "14:0-39"
